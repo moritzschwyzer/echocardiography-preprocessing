@@ -18,11 +18,11 @@
 
    press "q" to quit
 
-### folder structure:
+### Folder Structure:
 
-  \<class>/<patientnumber>/<sequence-name(.avi/.mp4)>
+  \<class>/\<patientnumber>/\<sequence-name(.avi/.mp4)>
 
   cropped/
 
 
-  <class> needs to be provided as the argument "--folder"
+  \<class> needs to be provided as the argument "--folder"
