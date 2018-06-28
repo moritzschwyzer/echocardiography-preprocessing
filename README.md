@@ -1,7 +1,7 @@
 # Echocardiography Preprocessing: Sequence Cropping
 
 ## INSTRUCTIONS:
-###Define the corners with the left mouse button accordingly:
+### Define the corners with the left mouse button accordingly:
 
    1st: Top center corner of the echocardiography
 
@@ -18,9 +18,9 @@
 
    press "q" to quit
 
-###folder structure:
+### folder structure:
 
-  '<class>/<patientnumber>/<sequence-name(.avi/.mp4)>'
+  \<class>/<patientnumber>/<sequence-name(.avi/.mp4)>
 
   cropped/
 
